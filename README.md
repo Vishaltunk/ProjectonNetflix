@@ -10,9 +10,6 @@ Geographical Insights: Visualize sales volumes across different regions to ident
 Growth Rate Analysis: Analyze the percentage change in sales from previous years to identify peak performance periods.
 Segment and Category Revenue Analysis: Gain insights into revenue distribution across different segments and categories.
 
-## Data Source
-The dashboard utilizes data from [data source], which includes [types of data used, e.g., sales, customer, inventory data].
-
 How to Use:
 Time Series Analysis: Use the first sheet to analyze sales trends over time by segment and product category. Interact with the charts to explore specific data points.
 Geographical Insights: Navigate to the second sheet to visualize sales volumes across different regions. Identify regions with potential for expansion.
