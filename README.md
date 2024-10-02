@@ -1,3 +1,4 @@
+![Superstore Sales Review](https://github.com/user-attachments/assets/8c948b6d-30bc-4b75-aeab-efd7176d684a)
 
 The analysis consists of data from 2011 to 2014 and it revolves around a variety of topics, including product categories, customer segments, geography, and marketing strategies.
 
